@@ -1,0 +1,13 @@
+C:\Users\joyce\repos\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.exe
+C:\Users\joyce\repos\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.deps.json
+C:\Users\joyce\repos\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.json
+C:\Users\joyce\repos\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.dev.json
+C:\Users\joyce\repos\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.dll
+C:\Users\joyce\repos\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.pdb
+C:\Users\joyce\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.csprojAssemblyReference.cache
+C:\Users\joyce\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfoInputs.cache
+C:\Users\joyce\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfo.cs
+C:\Users\joyce\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.csproj.CoreCompileInputs.cache
+C:\Users\joyce\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.dll
+C:\Users\joyce\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.pdb
+C:\Users\joyce\repos\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.genruntimeconfig.cache
